@@ -1,0 +1,6 @@
+{
+  "port": 3001,
+  "database": {
+    "name": "dictionary"
+  }
+}
